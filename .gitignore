@@ -9,6 +9,9 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
+*.aseprite
+*.aseprite.meta
+/Assets/Graphs/Recherches/
 
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
